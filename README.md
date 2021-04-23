@@ -5,7 +5,9 @@ The Data Analyst degree include 9 projects to get through all the fundamentals o
 
 <b> Read more on this degree here: https://openclassrooms.com/en/dashboard/paths </b>
   
-This repository get through the key learnings related to the Project no.8: Customer Segmentation for Bank Marketing based on credit card data.
+This repository get through the key learnings related to the Project no.8: 
+
+# Customer Segmentation for Bank Marketing based on credit card data.
 🎯 Goal: Create a segmentation of customers based on their credit card utilization for improving Bank marketing strategy.
 
 This project is organized in 2 notebooks.
